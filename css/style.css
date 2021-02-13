@@ -1,3 +1,7 @@
-BODY{
+body{
     background-color: #d4c6bd;
+}
+img{
+    width: 20em;
+    height: 30em;
 }
