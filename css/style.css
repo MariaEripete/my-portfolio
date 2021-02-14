@@ -2,7 +2,14 @@ body{
     background-color: #d4c6bd;
 }
 img{
-    width: 30em;
-    height: 30em;
-    
+    width: 20em;
+    height: 20em;
+    float: left;
+    margin: 10px;
+}
+.read{
+    background: rosybrown;
+    max-width: 960px;
+    margin: auto;
+    padding: 20px;
 }
